@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  DVMCardController.m
 //  DeckOfCardsC
 //
 //  Created by Cameron Milliken on 12/31/18.
 //  Copyright © 2018 Cameron Milliken. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "DVMCardController.h"
 
-@interface ViewController : UIViewController
-
+@implementation DVMCardController
 
 @end
-
